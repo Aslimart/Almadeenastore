@@ -868,10 +868,10 @@ a.card-meta-text:is(:hover, :focus) { color: var(--tan-crayola); }
     top: 50%;
     right: 0;
     transform: translateY(-50%);
-    font-size: 24px;
+    font-size: 36px;
   }
 
-  .header-action { gap: 25px; }
+  .header-action { gap: 36px; }
 
 
 
